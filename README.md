@@ -2,7 +2,7 @@
 
 This is a database management application that lets a user purchase products from a database. The user selects the product and quantity and the application calculates how much the total cost is once purchased, and updates the inventory.
 
-## **Tools utilizedd**
+## **Tools utilized**
 - Node.JS
 - MySQL
 
